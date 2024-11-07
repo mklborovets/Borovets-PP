@@ -1,4 +1,4 @@
-// command/ExitCommand.java
+
 package command;
 
 public class ExitCommand implements Command {

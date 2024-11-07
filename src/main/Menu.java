@@ -25,7 +25,8 @@ public class Menu {
             System.out.println("3. Змінити умови кредиту");
             System.out.println("4. Закрити кредит достроково");
             System.out.println("5. Збільшити кредитний ліміт");
-            System.out.println("6. Вихід");
+            System.out.println("6. Переглянути портфоліо кредитів");
+            System.out.println("7. Вихід");
 
             option = scanner.nextInt();
             scanner.nextLine();
@@ -33,10 +34,10 @@ public class Menu {
             Command cmd = commands.get(option);
             if (cmd != null) {
                 cmd.execute();
-            } else if (option != 6) {
+            } else if (option != 7) {
                 System.out.println("Невірний вибір. Спробуйте ще раз.");
             }
-        } while (option != 6);
+        } while (option != 7);
 
         System.out.println("Програма завершена.");
         scanner.close();
