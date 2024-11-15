@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3b251adc-8187-4ab8-9a89-ac7c2b024bcd" name="Changes" comment="mew">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageOptionsProvider">
+    <option name="myAddOrReplace" value="0" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "mklborovets"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/mklborovets/Lab7-8.git",
+    "accountId": "412bd500-8ae6-4bfc-831c-b3ffbdc6d36d"
+  }
+}]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/test/java/main/MenuTest.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2oXXZZ4GjzKaqWzMgcMrmwkYydA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JUnit.All in Lab7-.executor": "Coverage",
+    "JUnit.BankCreditTest.executor": "Coverage",
+    "JUnit.BankCreditTest.testDisplayInfo.executor": "Coverage",
+    "JUnit.CreditTest.executor": "Coverage",
+    "JUnit.CreditTest.testModifyTerms.executor": "Run",
+    "JUnit.ExitCommandTest.executor": "Coverage",
+    "JUnit.MenuTest.executor": "Coverage",
+    "JUnit.ModifyCreditCommandTest.executor": "Coverage",
+    "JUnit.ModifyCreditCommandTest.testExecute_ModifyBankCredit.executor": "Run",
+    "JUnit.ModifyCreditCommandTest.testExecute_ModifyNonExistingCredit.executor": "Run",
+    "JUnit.ModifyCreditCommandTest.testExecute_ModifyPersonalCredit.executor": "Run",
+    "JUnit.ModifyCreditCommandTest.testExecute_NoCreditsAvailableForType.executor": "Run",
+    "JUnit.ModifyCreditCommandTest.testModifyBankCredit.executor": "Debug",
+    "JUnit.PersonalCreditTest.executor": "Coverage",
+    "JUnit.PersonalCreditTest.testSetLenderName.executor": "Run",
+    "JUnit.SearchCreditCommandTest.executor": "Run",
+    "JUnit.UserPortfolioTest.executor": "Coverage",
+    "JUnit.UserPortfolioTest.testAddCredit.executor": "Run",
+    "JUnit.UserPortfolioTest.testSetCurrentCreditLimit.executor": "Run",
+    "JUnit.UserPortfolioTest.testSetMaxCreditLimit.executor": "Coverage",
+    "JUnit.ViewCreditsCommandTest.executor": "Run",
+    "JUnit.ViewCreditsCommandTest.testAddCreditToPortfolio.executor": "Run",
+    "JUnit.ViewCreditsCommandTest.testDisplayAllCredits.executor": "Run",
+    "JUnit.ViewCreditsCommandTest.testDisplayBankCredits.executor": "Run",
+    "JUnit.ViewCreditsCommandTest.testDisplayPersonalCredits.executor": "Run",
+    "JUnit.ViewCreditsCommandTest.testExecute_InvalidChoice.executor": "Run",
+    "JUnit.ViewCreditsCommandTest.testExecute_MaxLimitReached.executor": "Run",
+    "JUnit.ViewPortfolioTest.executor": "Coverage",
+    "JUnit.ViewPortfolioTest.testExecute_emptyPortfolio.executor": "Debug",
+    "JUnit.java in Lab7-.executor": "Coverage",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.<default>.executor": "Coverage",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "Lab8",
+    "kotlin-language-version-configured": "true",
+    "last_directory_selection": "C:/Users/Lacmi/IdeaProjects/Lab7-/src/test/java",
+    "last_opened_file_path": "C:/Users/Lacmi/IdeaProjects/Lab7-/src/main/java/main",
+    "onboarding.tips.debug.path": "C:/Users/Lacmi/IdeaProjects/Lab7-/src/main/java/main/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propCompiler"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lacmi\IdeaProjects\Lab7-\src\main\java\main" />
+      <recent name="C:\Users\Lacmi\IdeaProjects\Lab7-\src\main\java\credit" />
+      <recent name="C:\Users\Lacmi\IdeaProjects\Lab7-\src\main\java\command" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lacmi\IdeaProjects\Lab7-\src\main\java\command" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="command" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="command" />
+      <recent name="main" />
+      <recent name="portfolio" />
+      <recent name="credit" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="portfolio" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ModifyCreditCommandTest.testExecute_ModifyBankCredit">
+    <configuration name="ModifyCreditCommandTest.testExecute_ModifyBankCredit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab7-" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="command.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="command" />
+      <option name="MAIN_CLASS_NAME" value="command.ModifyCreditCommandTest" />
+      <option name="METHOD_NAME" value="testExecute_ModifyBankCredit" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonalCreditTest.testSetLenderName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab7-" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="credit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="credit" />
+      <option name="MAIN_CLASS_NAME" value="credit.PersonalCreditTest" />
+      <option name="METHOD_NAME" value="testSetLenderName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ViewCreditsCommandTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab7-" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="command.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="command" />
+      <option name="MAIN_CLASS_NAME" value="command.ViewCreditsCommandTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ViewCreditsCommandTest.testExecute_InvalidChoice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab7-" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="command.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="command" />
+      <option name="MAIN_CLASS_NAME" value="command.ViewCreditsCommandTest" />
+      <option name="METHOD_NAME" value="testExecute_InvalidChoice" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="java in Lab7-" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab7-" />
+      <option name="TEST_OBJECT" value="directory" />
+      <dir value="$PROJECT_DIR$/src/test/java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ModifyCreditCommandTest.testExecute_ModifyBankCredit" />
+        <item itemvalue="JUnit.PersonalCreditTest.testSetLenderName" />
+        <item itemvalue="JUnit.java in Lab7-" />
+        <item itemvalue="JUnit.ViewCreditsCommandTest.testExecute_InvalidChoice" />
+        <item itemvalue="JUnit.ViewCreditsCommandTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Lacmi\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b251adc-8187-4ab8-9a89-ac7c2b024bcd" name="Changes" comment="" />
+      <created>1731016952976</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731016952976</updated>
+    </task>
+    <task id="LOCAL-00001" summary="324">
+      <option name="closed" value="true" />
+      <created>1731631712700</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731631712700</updated>
+    </task>
+    <task id="LOCAL-00002" summary="mew">
+      <option name="closed" value="true" />
+      <created>1731631823013</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731631823013</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="324" />
+    <MESSAGE value="mew" />
+    <option name="LAST_COMMIT_MESSAGE" value="mew" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.InputMismatchException" package="java.util" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Lab7_$PersonalCreditTest.ic" NAME="PersonalCreditTest Coverage Results" MODIFIED="1731596587259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>credit.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lab7_$UserPortfolioTest_testSetMaxCreditLimit.ic" NAME="UserPortfolioTest.testSetMaxCreditLimit Coverage Results" MODIFIED="1731595175598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>portfolio.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lab7_$All_in_Lab7_.ic" NAME="All in Lab7- Coverage Results" MODIFIED="1731020238539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+    <SUITE FILE_PATH="coverage/Lab7_$java_in_Lab7_.ic" NAME="java in Lab7- Coverage Results" MODIFIED="1731628680503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+    <SUITE FILE_PATH="coverage/Lab7_$BankCreditTest_testDisplayInfo.ic" NAME="BankCreditTest.testDisplayInfo Coverage Results" MODIFIED="1731019412575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>credit.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lab7_$Main.ic" NAME="Main Coverage Results" MODIFIED="1731591310917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>main.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lab7_$CreditTest.ic" NAME="CreditTest Coverage Results" MODIFIED="1731596424613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>credit.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lab7_$ExitCommandTest.ic" NAME="ExitCommandTest Coverage Results" MODIFIED="1731618870854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>command.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lab7_$MenuTest.ic" NAME="MenuTest Coverage Results" MODIFIED="1731595265673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>main.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lab7_$ViewCreditsCommandTest.ic" NAME="ViewCreditsCommandTest Coverage Results" MODIFIED="1731622809762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>command.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lab7_$ModifyCreditCommandTest.ic" NAME="ModifyCreditCommandTest Coverage Results" MODIFIED="1731624667231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>command.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lab7_$_default_.ic" NAME="&lt;default&gt; Coverage Results" MODIFIED="1731591466744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+    <SUITE FILE_PATH="coverage/Lab7_$UserPortfolioTest.ic" NAME="UserPortfolioTest Coverage Results" MODIFIED="1731595056371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>portfolio.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lab7_$ViewPortfolioTest.ic" NAME="ViewPortfolioTest Coverage Results" MODIFIED="1731618281186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>command.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lab7_$BankCreditTest.ic" NAME="BankCreditTest Coverage Results" MODIFIED="1731596700976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>credit.*</FILTER>
+    </SUITE>
+  </component>
+</project>

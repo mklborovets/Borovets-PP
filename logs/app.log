@@ -1,0 +1,105 @@
+2024-11-15 01:33:59 [main] ERROR main.Main - Критична помилка у програмі.
+java.util.InputMismatchException: null
+	at java.util.Scanner.throwFor(Scanner.java:964) ~[?:?]
+	at java.util.Scanner.next(Scanner.java:1619) ~[?:?]
+	at java.util.Scanner.nextInt(Scanner.java:2284) ~[?:?]
+	at java.util.Scanner.nextInt(Scanner.java:2238) ~[?:?]
+	at main.Menu.displayMenu(Menu.java:37) ~[classes/:?]
+	at main.Main.main(Main.java:43) ~[classes/:?]
+2024-11-15 01:37:59 [main] ERROR main.Main - Критична помилка у програмі.
+java.util.InputMismatchException: null
+	at java.util.Scanner.throwFor(Scanner.java:964) ~[?:?]
+	at java.util.Scanner.next(Scanner.java:1619) ~[?:?]
+	at java.util.Scanner.nextInt(Scanner.java:2284) ~[?:?]
+	at java.util.Scanner.nextInt(Scanner.java:2238) ~[?:?]
+	at main.Menu.displayMenu(Menu.java:37) ~[classes/:?]
+	at main.Main.main(Main.java:43) ~[classes/:?]
+2024-11-15 01:39:10 [main] INFO  main.Main - Запуск програми
+2024-11-15 01:39:17 [main] ERROR main.Main - Критична помилка у програмі.
+java.util.InputMismatchException: null
+	at java.util.Scanner.throwFor(Scanner.java:964) ~[?:?]
+	at java.util.Scanner.next(Scanner.java:1619) ~[?:?]
+	at java.util.Scanner.nextInt(Scanner.java:2284) ~[?:?]
+	at java.util.Scanner.nextInt(Scanner.java:2238) ~[?:?]
+	at main.Menu.displayMenu(Menu.java:37) ~[classes/:?]
+	at main.Main.main(Main.java:43) ~[classes/:?]
+2024-11-15 01:43:47 [main] INFO  main.Main - Запуск програми
+2024-11-15 01:49:31 [main] INFO  main.Main - Запуск програми
+2024-11-15 01:49:34 [main] WARN  main.Main - Портфоліо порожнє.
+
+2024-11-15 01:49:53 [main] INFO  main.Main - Ви ще можете відкрити - 2 кредитів
+2024-11-15 01:49:53 [main] INFO  main.Main - Ваше портфоліо кредитів:
+2024-11-15 01:49:53 [main] INFO  main.Main - 
+Кредит від банку УкрБанк
+2024-11-15 01:49:53 [main] INFO  main.Main - Кредит: Зелений кредит
+2024-11-15 01:49:53 [main] INFO  main.Main - Номер кредиту: 2290
+2024-11-15 01:49:53 [main] INFO  main.Main - Сума: 200000.0 | Відсоткова ставка: 9.0% | Термін: 36 місяців
+
+2024-11-15 01:49:55 [main] ERROR main.Main - Критична помилка у програмі.
+java.util.InputMismatchException: null
+	at java.util.Scanner.throwFor(Scanner.java:964) ~[?:?]
+	at java.util.Scanner.next(Scanner.java:1619) ~[?:?]
+	at java.util.Scanner.nextInt(Scanner.java:2284) ~[?:?]
+	at java.util.Scanner.nextInt(Scanner.java:2238) ~[?:?]
+	at main.Menu.displayMenu(Menu.java:37) ~[classes/:?]
+	at main.Main.main(Main.java:43) ~[classes/:?]
+2024-11-15 01:54:21 [main] INFO  main.Main - Ви ще можете відкрити - 3 кредитів
+2024-11-15 01:54:21 [main] INFO  main.Main - Ваше портфоліо кредитів:
+2024-11-15 01:54:21 [main] INFO  main.Main - 
+Кредит від John Doe
+2024-11-15 01:54:21 [main] INFO  main.Main - Номер кредиту: 12
+2024-11-15 01:54:21 [main] INFO  main.Main - Сума: 5000.0 | Відсоткова ставка: 2.0% | Термін: 5 місяців
+
+2024-11-15 01:54:21 [main] INFO  main.Main - 
+Кредит від банку MyBank
+2024-11-15 01:54:21 [main] INFO  main.Main - Кредит: Mortgage
+2024-11-15 01:54:21 [main] INFO  main.Main - Номер кредиту: 24
+2024-11-15 01:54:21 [main] INFO  main.Main - Сума: 10000.0 | Відсоткова ставка: 3.0% | Термін: 4 місяців
+
+2024-11-15 01:54:21 [main] INFO  main.Main - Ви ще можете відкрити - 3 кредитів
+2024-11-15 01:54:21 [main] INFO  main.Main - Ваше портфоліо кредитів:
+2024-11-15 01:54:21 [main] INFO  main.Main - 
+Кредит від John Doe
+2024-11-15 01:54:21 [main] INFO  main.Main - Номер кредиту: 12
+2024-11-15 01:54:21 [main] INFO  main.Main - Сума: 5000.0 | Відсоткова ставка: 5.0% | Термін: 5 місяців
+
+2024-11-15 01:54:21 [main] INFO  main.Main - Ви ще можете відкрити - 3 кредитів
+2024-11-15 01:54:21 [main] INFO  main.Main - Ваше портфоліо кредитів:
+2024-11-15 01:54:21 [main] INFO  main.Main - 
+Кредит від банку MyBank
+2024-11-15 01:54:21 [main] INFO  main.Main - Кредит: Mortgage
+2024-11-15 01:54:21 [main] INFO  main.Main - Номер кредиту: 24
+2024-11-15 01:54:21 [main] INFO  main.Main - Сума: 10000.0 | Відсоткова ставка: 5.0% | Термін: 4 місяців
+
+2024-11-15 01:54:21 [main] WARN  main.Main - Портфоліо порожнє.
+
+2024-11-15 01:58:04 [main] INFO  main.Main - Ви ще можете відкрити - 3 кредитів
+2024-11-15 01:58:04 [main] INFO  main.Main - Ваше портфоліо кредитів:
+2024-11-15 01:58:04 [main] INFO  main.Main - 
+Кредит від John Doe
+2024-11-15 01:58:04 [main] INFO  main.Main - Номер кредиту: 12
+2024-11-15 01:58:04 [main] INFO  main.Main - Сума: 5000.0 | Відсоткова ставка: 2.0% | Термін: 5 місяців
+
+2024-11-15 01:58:04 [main] INFO  main.Main - 
+Кредит від банку MyBank
+2024-11-15 01:58:04 [main] INFO  main.Main - Кредит: Mortgage
+2024-11-15 01:58:04 [main] INFO  main.Main - Номер кредиту: 24
+2024-11-15 01:58:04 [main] INFO  main.Main - Сума: 10000.0 | Відсоткова ставка: 3.0% | Термін: 4 місяців
+
+2024-11-15 01:58:04 [main] INFO  main.Main - Ви ще можете відкрити - 3 кредитів
+2024-11-15 01:58:04 [main] INFO  main.Main - Ваше портфоліо кредитів:
+2024-11-15 01:58:04 [main] INFO  main.Main - 
+Кредит від John Doe
+2024-11-15 01:58:04 [main] INFO  main.Main - Номер кредиту: 12
+2024-11-15 01:58:04 [main] INFO  main.Main - Сума: 5000.0 | Відсоткова ставка: 5.0% | Термін: 5 місяців
+
+2024-11-15 01:58:04 [main] INFO  main.Main - Ви ще можете відкрити - 3 кредитів
+2024-11-15 01:58:04 [main] INFO  main.Main - Ваше портфоліо кредитів:
+2024-11-15 01:58:04 [main] INFO  main.Main - 
+Кредит від банку MyBank
+2024-11-15 01:58:04 [main] INFO  main.Main - Кредит: Mortgage
+2024-11-15 01:58:04 [main] INFO  main.Main - Номер кредиту: 24
+2024-11-15 01:58:04 [main] INFO  main.Main - Сума: 10000.0 | Відсоткова ставка: 5.0% | Термін: 4 місяців
+
+2024-11-15 01:58:04 [main] WARN  main.Main - Портфоліо порожнє.
+
